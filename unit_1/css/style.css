@@ -1,0 +1,8 @@
+body {
+	background-color: black;
+}
+
+h1, p {
+	color: pink;
+}
+<link rel="stylesheet" type="text/css" href="css/style.css"
