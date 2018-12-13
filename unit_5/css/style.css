@@ -1,0 +1,35 @@
+header{
+	background-color: #FFED74
+}
+nav{background-color: #E8C66A
+}
+
+h1 {
+  text-align: center;
+}
+
+body{
+  text-align: center;
+   color: #000000;
+  font-family: 'Merriweather', serif;
+  aside{
+  	background-color: #FFC675
+  }
+  article 
+  background-color: #E89C6C
+}
+footer{ 
+background-color: #FF957E
+ }
+hr{
+  width: 200px;
+}
+p{
+  font-size: 22px;
+}
+
+ul {
+    list-style-position: inside;
+}
+div{ background-color: #FFE2B8
+ }
